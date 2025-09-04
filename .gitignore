@@ -1,0 +1,5 @@
+.env
+secret.txt
+*.log
+temp/
+Thumbs.db
